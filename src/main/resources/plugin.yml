@@ -1,0 +1,9 @@
+name: MolochnicaEvent
+version: 1.0
+main: ru.yourname.molochnica.MolochnicaEvent
+api-version: 1.16
+depend: [Vault]
+commands:
+  startboss:
+    description: Запустить ивент с Молочницей
+    permission: molochnica.admin
